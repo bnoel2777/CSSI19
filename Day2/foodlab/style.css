@@ -1,0 +1,20 @@
+h1
+{
+    color:blue;
+    font-size:10em;
+    font-family:monospace;
+}
+h2
+{
+    color:red;
+    font-size:10em;
+    font-family: serif;
+}
+a{
+
+text-decoration: none;
+font-weight: bolder;
+}
+ul{
+list-style-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/125px-Flag_of_Haiti.svg.png);
+}
