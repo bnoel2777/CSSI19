@@ -34,3 +34,9 @@ console.log(i(12.3));
 console.log(i(7,9));
 
 
+
+
+function K(r)
+{
+    return 2 * Math.PI * r;
+}
